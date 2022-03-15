@@ -22,14 +22,16 @@ h1 {
     vertical-align: middle;
 }
 
+.container{
+    padding: 20px;
+    margin: auto;
+    width: 1200px;
+
+}
+
 .task-box {
     background-color: white;
-    height: 40px;
-    width: 1200px;
-    margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 11px;
+    margin-top: 50px;
 }
 
 .add-span{
@@ -52,14 +54,34 @@ h1 {
 
 .task-list{
     background-color: white;
-    height: 40px;
-    width: 1200px;
     margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 11px;
-    padding-bottom: 600px;
+    padding-left: 65px;
+   
+}
+
+.edit{
+    color: white;
+    background-color: rgb(40, 172, 253);
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 5px;
 
 }
 
+.task{
+    margin-bottom: 25px;
+}
 
+.task-list h3{
+    margin-bottom: 5px;
+    
+}
+
+.q1{
+    color: white;
+    background-color: rgb(40, 172, 253);
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 5px;
+
+}
