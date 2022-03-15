@@ -1,27 +1,54 @@
-body{
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
     background-color: lightgrey;
 }
 
-header{
-    padding: 10px;
+header {
+    padding: 5px;
     background-color: white;
 }
 
-.logo{
+.logo {
     vertical-align: middle;
 }
 
-h1{
+h1 {
     display: inline-block;
     vertical-align: middle;
 }
 
-.task-box{
+.task-box {
     background-color: white;
-    height: 50px;
-    width: 1000px;
+    height: 40px;
+    width: 1200px;
     margin-top: 10px;
+    margin-left: auto;
     margin-right: auto;
     padding-top: 10px;
 
 }
+
+.add-span{
+    color: white;
+    background-color: lightskyblue;
+    border-radius: 2px;
+    margin-left: 50px;
+    padding: 5px;
+
+}
+
+.add-section{
+    color: lightgray;
+    border-radius: 2px;
+    border: 2px solid lightgrey;
+    padding: 3px;
+    margin-left: 10px;
+
+}
+
+
