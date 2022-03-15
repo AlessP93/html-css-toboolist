@@ -103,3 +103,22 @@ h1 {
     padding: 5px;
 
 }
+
+.Home{
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 5px;
+
+}
+
+.sales{
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 5px;
+
+}
+
