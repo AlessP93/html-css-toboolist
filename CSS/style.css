@@ -79,7 +79,25 @@ h1 {
 
 .q1{
     color: white;
-    background-color: rgb(40, 172, 253);
+    background-color: violet;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 5px;
+    
+}
+
+.Jhon{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 5px;
+
+}
+
+.Mob{
+    color: white;
+    background-color: orange;
     border-radius: 10px;
     margin-left: 5px;
     padding: 5px;
